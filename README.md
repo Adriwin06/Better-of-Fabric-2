@@ -8,6 +8,6 @@
 
 ## Discord Invites
 
-**Better of Fabric »** https://discord.gg/4RZA66CWAw
+**Better of Fabric 2»** https://discord.gg/4RZA66CWAw
 
 **Fabric »** https://discord.gg/8ub7q3z58Z

@@ -1,0 +1,43 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_429
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-right
+  shadow = true
+  x = -2
+  actionid = 965ce521-34c1-4536-ad58-ff0f47f2cb5a1647193923656
+  action = addtext
+  y = 4
+  scale = 1.0
+  alignment = right
+  value = %usedram% MB Used of %maxram%
+}
+
+customization {
+  orientation = top-left
+  delayappearanceseconds = 0.1
+  path = config/resources/logo.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -43
+  width = 140
+  action = addtexture
+  actionid = b96cf7ba-4cc1-47fc-a264-8d9a509446ba1648826143452
+  y = -15
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 140
+}
+

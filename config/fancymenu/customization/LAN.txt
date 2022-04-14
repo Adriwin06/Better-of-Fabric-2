@@ -1,0 +1,63 @@
+type = menu
+
+customization-meta {
+  identifier = io.github.satxm.mcwifipnp.ShareToLanScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  actionid = 53336745-e8de-4a03-a0a1-078886318aac1647194874303
+  action = addtext
+  y = -40
+  scale = 1.0
+  alignment = left
+  value = Minecraft %mcversion%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  actionid = d169e571-66ce-4dd1-ac23-30f5a0af1e1c1647194908020
+  action = addtext
+  y = -30
+  scale = 1.0
+  alignment = left
+  value = Fabric %version:fabric%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  actionid = 3c54c51e-6aaf-41e5-b70b-fa1626c69fa31647194948118
+  action = addtext
+  y = -20
+  scale = 1.0
+  alignment = left
+  value = %loadedmods% Mods Loaded
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  actionid = c43cf6e9-77b0-4ee5-a021-fab993f4b9ed1647194972605
+  action = addtext
+  y = -10
+  scale = 1.0
+  alignment = left
+  value = %usedram% MB Used of %maxram%
+}
+

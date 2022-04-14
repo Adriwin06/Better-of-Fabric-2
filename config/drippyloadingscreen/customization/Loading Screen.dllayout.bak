@@ -1,0 +1,85 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+  backgroundcolor = #05b334
+}
+
+customization {
+  visible = false
+  x = -1
+  action = editlogo
+}
+
+customization {
+  name = BetterofFabricSlideshow
+  action = setbackgroundslideshow
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  textcolor = #ffffff
+  action = addtext
+  actionid = ee432722-32c5-4749-9d55-0567154bbc671647195343742
+  y = -12
+  scale = 1.0
+  alignment = left
+  value = Minecraft %mcversion%
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = true
+  x = 0
+  textcolor = #ffffff
+  action = addtext
+  actionid = 441dcacd-11c7-4dd5-9927-91528e0851d21647195387582
+  y = -2
+  scale = 1.0
+  alignment = left
+  value = %usedram% MB used of %maxram%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  textcolor = #ffffff
+  action = addtext
+  actionid = 9cd9d008-3914-429b-83e6-dfd4aa0a255d1647195420357
+  y = -21
+  scale = 1.0
+  alignment = left
+  value = Fabric %version:fabric%
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 4
+  textcolor = #ffffff
+  action = addtext
+  actionid = 7675f316-71ed-4397-a068-0edceb85347b1647195456827
+  y = -2
+  scale = 1.0
+  alignment = left
+  value = %loadedmods% Loaded Mods
+}
+
+customization {
+  path = config/resources/title.png
+  orientation = top-left
+  x = -33
+  width = 140
+  action = addtexture
+  actionid = 0ca18850-6c1b-4d89-9835-169ed9dfb15d1647270763463
+  y = 6
+  height = 140
+}
+

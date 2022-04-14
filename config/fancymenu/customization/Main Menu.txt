@@ -1,0 +1,537 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  minimummcversion = 1.18.1
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = BetterofFabricSlideshow
+  action = setbackgroundslideshow
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400358%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604394%
+  orientation = mid-centered
+  x = 105
+  action = movebutton
+  y = 46
+}
+
+customization {
+  identifier = %id=604394%
+  seconds = 0.5
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = mid-centered
+  x = 105
+  action = movebutton
+  y = 69
+}
+
+customization {
+  identifier = %id=376394%
+  seconds = 0.5
+  onlyfirsttime = false
+  fadein = true
+  fadeinspeed = 1.0
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=400310%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400286%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=604370%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=502394%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = opengui
+  label = Shaders
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 2
+  width = 98
+  actionid = 213d3e32-fc6c-4c06-b514-85a28748ff0f1647022402778
+  action = addbutton
+  y = 46
+  delayappearance = true
+  value = net.coderbot.iris.gui.screen.ShaderPackScreen
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = opengui
+  label = Resource Packs...
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = -100
+  width = 98
+  actionid = 7339343f-3cab-4b54-8e10-2936f411d0481647022877540
+  action = addbutton
+  y = 46
+  delayappearance = true
+  value = net.minecraft.class_5375
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = opengui
+  label = Singleplayer
+  loopbackgroundanimations = true
+  hoverlabel = Play Lonely Mod with no friends
+  fadein = true
+  fadeinspeed = 1.0
+  x = -100
+  width = 200
+  actionid = 0505401e-ccff-431e-bd5c-3f51c1e6fe4f1647023080661
+  action = addbutton
+  y = -33
+  delayappearance = true
+  value = net.minecraft.class_526
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = opengui
+  label = Mods
+  loopbackgroundanimations = true
+  hoverlabel = %loadedmods% Mods Loaded
+  fadein = true
+  fadeinspeed = 1.0
+  x = 2
+  width = 98
+  actionid = 735d6e1f-07e6-4fd0-9b3f-fd869a1d92851647023194064
+  action = addbutton
+  y = 13
+  delayappearance = true
+  value = com.terraformersmc.modmenu.gui.ModsScreen
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = opengui
+  label = Multiplayer
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = -100
+  width = 200
+  actionid = 1d0f2949-1f5d-49ff-865c-e75c995bfd8f1647029559354
+  action = addbutton
+  y = -10
+  delayappearance = true
+  value = net.minecraft.class_500
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = opengui
+  label = Options...
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = -100
+  width = 98
+  actionid = 5b477c91-2c7a-42d3-9ecb-9d3a0d21c11a1647029728774
+  action = addbutton
+  y = 70
+  delayappearance = true
+  value = net.minecraft.class_429
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = quitgame
+  label = Quit Game
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 2
+  width = 98
+  actionid = 9d78e4f6-3a55-41fa-8f61-affa8ef59b151647029794657
+  action = addbutton
+  y = 69
+  delayappearance = true
+  value = 
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = openlink
+  label = Rent a Server
+  loopbackgroundanimations = true
+  hoverlabel = Get 25% OFF
+  fadein = true
+  fadeinspeed = 1.0
+  x = -100
+  width = 98
+  actionid = 30b8ed40-80f6-4ef0-83dd-9fa90dd1d2f71647040033852
+  action = addbutton
+  y = 13
+  delayappearance = true
+  value = 
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 3
+  actionid = 7fe4f1ea-7036-4d45-b0af-75be7a7842651647040359431
+  action = addtext
+  y = -12
+  scale = 1.0
+  alignment = left
+  value = Better of Fabric 2 by Adriwin
+}
+
+customization {
+  orientation = mid-centered
+  shadow = true
+  delayappearanceseconds = 0.5
+  scale = 1.0
+  fadein = true
+  fadeinspeed = 1.0
+  x = -1
+  actionid = 302277ea-02cf-4bff-885a-341d724724fa1647040657497
+  action = addtext
+  y = 94
+  delayappearance = true
+  alignment = centered
+  value = You are currently logged in as %playername%
+  delayappearanceeverytime = true
+}
+
+customization {
+  orientation = top-left
+  shadow = true
+  x = 4
+  actionid = 0b4037c5-e456-4c01-acb2-123c87001d9a1647040791786
+  action = addtext
+  y = 4
+  scale = 1.0
+  alignment = left
+  value = %realtimehour% : %realtimeminute%
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = openlink
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = -125
+  width = 20
+  actionid = 072e0fe1-47ac-49a5-bda7-db8c4133462d1648400238283
+  action = addbutton
+  y = 69
+  delayappearance = true
+  value = https://discord.gg/fRTEp3zYc3
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 0.5
+  path = config/resources/discord.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -123
+  width = 16
+  action = addtexture
+  actionid = 1a1e8a90-49f6-4763-b068-f89446489f711648401392510
+  y = 71
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 17
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = opengui
+  description = In-Game Account Switcher
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 105
+  width = 20
+  actionid = 005e5d45-df19-436e-b498-9d2eb80345a41648402553316
+  action = addbutton
+  y = 13
+  delayappearance = true
+  value = the_fireplace.ias.gui.GuiAccountSelector
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 0.5
+  path = config/resources/igas.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = 105
+  width = 20
+  action = addtexture
+  actionid = b6042d24-1f31-43c9-b596-349ddf707abb1648405484983
+  y = 13
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = openlink
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = -125
+  width = 20
+  actionid = e63f8ea0-56cb-4dc2-af46-8d15d3014c731648410354577
+  action = addbutton
+  y = 46
+  delayappearance = true
+  value = https://github.com/Adriwin06/Better-of-Fabric-2/wiki
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 0.5
+  path = config/resources/github.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -123
+  width = 16
+  action = addtexture
+  actionid = f9e6a306-a8a8-4de3-b5aa-47fb8a4b6e6b1648413667169
+  y = 48
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 16
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = openlink
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = -125
+  width = 20
+  actionid = edcd3fc8-f003-4969-83cf-0c16bc94781b1648416601501
+  action = addbutton
+  y = 13
+  delayappearance = true
+  value = https://www.curseforge.com/minecraft/modpacks/better-of-fabric-2
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 0.5
+  path = config/resources/curseforge.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -122
+  width = 14
+  action = addtexture
+  actionid = c91cee6f-05c7-4224-ab6f-2d3027a4064f1648486464203
+  y = 20
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 7
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = opengui
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 105
+  width = 20
+  actionid = d1bd156f-754e-4cd5-ab54-c75cbce144a31648499038818
+  action = addbutton
+  y = 46
+  delayappearance = true
+  value = com.blamejared.controlling.client.NewKeyBindsScreen
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 0.5
+  path = config/resources/controls.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = 107
+  width = 16
+  action = addtexture
+  actionid = 4f4e8372-88e5-4f62-8317-8ef7a72445691648499564125
+  y = 48
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 16
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 0.5
+  path = config/resources/logo.png
+  fadein = true
+  fadeinspeed = 0.5
+  x = -95
+  width = 190
+  action = addtexture
+  actionid = f0598f6c-e417-4e8e-9efd-333ec0f0bc011648825981533
+  y = -199
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 190
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 0.5
+  buttonaction = opengui
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 105
+  width = 20
+  actionid = 73dcce94-7384-4052-89cd-9ef165f8e2e51649503866546
+  action = addbutton
+  y = 69
+  delayappearance = true
+  value = net.minecraft.class_426
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  delayappearanceseconds = 0.5
+  path = config/resources/languages.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = 105
+  width = 20
+  action = addtexture
+  actionid = 3a767ee5-5c85-4141-99b6-e86605bf2cca1649503926730
+  y = 69
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 20
+}
+

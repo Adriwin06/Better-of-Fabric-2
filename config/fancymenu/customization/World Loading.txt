@@ -1,0 +1,27 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_3928
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = bottom-centered
+  shadow = true
+  x = 0
+  actionid = badef39b-e05f-439a-bd07-324fa34f46a41647194627563
+  action = addtext
+  y = -9
+  scale = 1.0
+  alignment = centered
+  value = %usedram% MB Used of %maxram%
+}
+

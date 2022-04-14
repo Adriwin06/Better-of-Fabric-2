@@ -1,0 +1,15 @@
+{
+  "nbBooks": 3,
+  "book1": {
+    "maxLevel": 32,
+    "xpFromUsing": 85
+  },
+  "book2": {
+    "maxLevel": 64,
+    "xpFromUsing": 90
+  },
+  "book3": {
+    "maxLevel": 96,
+    "xpFromUsing": 95
+  }
+}

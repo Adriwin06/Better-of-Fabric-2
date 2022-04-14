@@ -1,0 +1,11 @@
+{
+	id: "4D69B8EE4B62CD4A"
+	group: ""
+	order_index: 5
+	filename: "atlantis"
+	title: "Atlantis"
+	icon: "atlantis:atlantis_clear_portal"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

@@ -1,0 +1,11 @@
+{
+	id: "3E5DFEE16E7A61F6"
+	group: ""
+	order_index: 3
+	filename: "the_aether"
+	title: "The Aether"
+	icon: "the_aether:aether_portal"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

@@ -1,0 +1,11 @@
+{
+	id: "2F0A448989081973"
+	group: ""
+	order_index: 0
+	filename: "the_overworld"
+	title: "The Overworld"
+	icon: "unearthed:mudstone_grassy_regolith"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

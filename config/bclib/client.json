@@ -1,0 +1,17 @@
+{
+  "ui": {
+    "suppressExperimentalDialogOnLoad [default: false]": true
+  },
+  "auto_sync": {
+    "enabled [default: true]": true,
+    "acceptConfigs [default: true]": true,
+    "acceptFiles [default: true]": true,
+    "acceptMods [default: false]": true,
+    "displayModInfo [default: true]": true,
+    "debugHashes [default: false]": false
+  },
+  "rendering": {
+    "netherThickFog [default: true]": true,
+    "customFogRendering [default: true]": true
+  }
+}

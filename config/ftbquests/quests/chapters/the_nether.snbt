@@ -1,0 +1,11 @@
+{
+	id: "2BD198D17267DE39"
+	group: ""
+	order_index: 1
+	filename: "the_nether"
+	title: "The Nether"
+	icon: "minecraft:crying_obsidian"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

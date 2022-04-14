@@ -1,0 +1,11 @@
+{
+	id: "29395B59EB7BC46C"
+	group: ""
+	order_index: 4
+	filename: "the_bumblezone"
+	title: "The Bumblezone"
+	icon: "the_bumblezone:beehive_beeswax"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+}

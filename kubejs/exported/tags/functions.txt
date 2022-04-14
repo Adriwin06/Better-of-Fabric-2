@@ -1,0 +1,7 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 15, 2022, 6:31:21 PM
+
+#minecraft:tick
+- terralith:tick
+
+#minecraft:load
+- terralith:setup

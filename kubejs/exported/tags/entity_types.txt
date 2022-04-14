@@ -1,0 +1,249 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 15, 2022, 6:31:21 PM
+
+#twm:10xp
+- minecraft:blaze
+- minecraft:evoker
+- minecraft:elder_guardian
+- minecraft:guardian
+
+#twm:100xp
+- minecraft:ender_dragon
+
+#c:skeletons
+- earthtojavamobs:skeleton_wolf
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned
+- minecraft:guardian
+- minecraft:elder_guardian
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray
+- minecraft:polar_bear
+- minecraft:snow_golem
+- minecraft:wither
+- adventurez:summoner
+- promenade:duck
+
+#twm:20xp
+- minecraft:ravager
+- minecraft:piglin_brute
+
+#biomemakeover:lightning_bugs
+- biomemakeover:lightning_bug
+- biomemakeover:lightning_bug_alternate
+
+#twm:50xp
+- minecraft:wither
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- adventurez:void_bullet
+- adventurez:fire_breath
+- the_bumblezone:pollen_puff
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#c:pollen
+- the_bumblezone:pollen_puff
+
+#biomemakeover:owl_targets
+- minecraft:rabbit
+- minecraft:chicken
+- minecraft:silverfish
+- minecraft:endermite
+- minecraft:bat
+- biomemakeover:toad
+- biomemakeover:blightbat
+- biomemakeover:dragonfly
+- biomemakeover:lightning_bug
+- biomemakeover:lightning_bug_alternate
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+- adventurez:summoner
+- earthtojavamobs:skeleton_wolf
+
+#the_bumblezone:pollen_puff_can_pollinate
+- minecraft:bee
+
+#twm:dropsxp
+- minecraft:axolotl
+- minecraft:cat
+- minecraft:chicken
+- minecraft:cod
+- minecraft:cow
+- minecraft:donkey
+- minecraft:fox
+- minecraft:glow_squid
+- minecraft:horse
+- minecraft:mooshroom
+- minecraft:ocelot
+- minecraft:parrot
+- minecraft:pig
+- minecraft:pufferfish
+- minecraft:rabbit
+- minecraft:salmon
+- minecraft:sheep
+- minecraft:squid
+- minecraft:strider
+- minecraft:skeleton_horse
+- minecraft:tropical_fish
+- minecraft:turtle
+- minecraft:zombie_horse
+- minecraft:bee
+- minecraft:dolphin
+- minecraft:goat
+- minecraft:llama
+- minecraft:panda
+- minecraft:polar_bear
+- minecraft:trader_llama
+- minecraft:wolf
+- minecraft:endermite
+- minecraft:slime
+- minecraft:magma_cube
+- minecraft:cave_spider
+- minecraft:creeper
+- minecraft:drowned
+- minecraft:ghast
+- minecraft:hoglin
+- minecraft:husk
+- minecraft:illusioner
+- minecraft:phantom
+- minecraft:pillager
+- minecraft:shulker
+- minecraft:silverfish
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:vex
+- minecraft:vindicator
+- minecraft:witch
+- minecraft:wither_skeleton
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:zoglin
+- minecraft:enderman
+- minecraft:piglin
+- minecraft:spider
+- minecraft:zombified_piglin
+- minecraft:blaze
+- minecraft:evoker
+- minecraft:elder_guardian
+- minecraft:guardian
+- minecraft:ravager
+- minecraft:piglin_brute
+- minecraft:wither
+- minecraft:ender_dragon
+- twm:frog
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider
+- minecraft:blaze
+- minecraft:magma_cube
+- adventurez:stone_golem
+- adventurez:small_stone_golem
+
+#twm:5xp
+- minecraft:cave_spider
+- minecraft:creeper
+- minecraft:drowned
+- minecraft:ghast
+- minecraft:hoglin
+- minecraft:husk
+- minecraft:illusioner
+- minecraft:phantom
+- minecraft:pillager
+- minecraft:shulker
+- minecraft:silverfish
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:vex
+- minecraft:vindicator
+- minecraft:witch
+- minecraft:wither_skeleton
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:zoglin
+- minecraft:enderman
+- minecraft:piglin
+- minecraft:spider
+- minecraft:zombified_piglin
+
+#twm:3xp
+- minecraft:axolotl
+- minecraft:cat
+- minecraft:chicken
+- minecraft:cod
+- minecraft:cow
+- minecraft:donkey
+- minecraft:fox
+- minecraft:glow_squid
+- minecraft:horse
+- minecraft:mooshroom
+- minecraft:ocelot
+- minecraft:parrot
+- minecraft:pig
+- minecraft:pufferfish
+- minecraft:rabbit
+- minecraft:salmon
+- minecraft:sheep
+- minecraft:squid
+- minecraft:strider
+- minecraft:skeleton_horse
+- minecraft:tropical_fish
+- minecraft:turtle
+- minecraft:zombie_horse
+- minecraft:bee
+- minecraft:dolphin
+- minecraft:goat
+- minecraft:llama
+- minecraft:panda
+- minecraft:polar_bear
+- minecraft:trader_llama
+- minecraft:wolf
+- minecraft:endermite
+- minecraft:slime
+- minecraft:magma_cube
+- twm:frog
+
+#c:raiders
+- earthtojavamobs:viler_witch
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+- biomemakeover:adjudicator
+- earthtojavamobs:viler_witch
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit
+- minecraft:endermite
+- minecraft:silverfish
+- minecraft:fox
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:cod
+- minecraft:squid
+- minecraft:glow_squid
+- biomemakeover:glowfish

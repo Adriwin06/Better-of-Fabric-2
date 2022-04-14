@@ -1,0 +1,12 @@
+{
+  "commands.temperature.success.single": "%s has temperature of %s",
+  "commands.trade.success": "Offered %s %s",
+  "thonkutil.warning.1": " ",
+  "thonkutil.beta": " ",
+  "thonkutil.alpha": " ",
+  "thonkutil.pre_alpha": " ",
+  "thonkutil.warning.1.1": " ",
+  "thonkutil.warning.2": " ",
+  "thonkutil.warning.3": "",
+  "thonkutil.nosupport": "No support for this build."
+}
